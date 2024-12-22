@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://github.com/hasunB/B-Music-player/blob/master/Yellow%20and%20Red%20Bright%20and%20Playful%20YouTube%20Thumbnail.jpg">
+<img align="center" alt="Coding" src="https://github.com/hasunB/B-Music-player/blob/master/Yellow%20and%20Red%20Bright%20and%20Playful%20YouTube%20Thumbnail%20(1).jpg">
 
 # 💫 About Me:
 I am a passionate Software Engineering student at Birmingham City University with a strong interest in web development, IoT, and innovative solutions. <br>I enjoy creating dynamic and user-friendly applications, from designing online stores to developing smart devices. Fluent in English, I aim to merge creativity and technology in every project I undertake.<br>Currently exploring opportunities to grow as a Full Stack Software Engineer and sharing my love for astronomy through creative content.
