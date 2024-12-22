@@ -21,6 +21,9 @@
 <p align="center">
 👋 Hi there! I'm a passionate Software Engineering student at Birmingham City University with a strong interest in web development, IoT, and innovative solutions. I enjoy creating dynamic and user-friendly applications, from designing online stores to developing smart devices. Fluent in English, I aim to merge creativity and technology in every project I undertake. Currently exploring opportunities to grow as a <b>Full Stack Software Engineer/AI Engineer</b> and sharing my love for astronomy through creative content. 🚀✨
 </p>
+<div align="center">
+<img align="center" alt="Coding" src="https://github.com/hasunB/B-Music-player/blob/master/ironcat__1_-removebg-preview.png">
+</div>
 
 # Technologies 💻
 
@@ -32,29 +35,61 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hasunB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hasunB&theme=dark&hide_border=false)<br/>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=hasunB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasunB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hasunB&theme=dark&hide_border=false) 
+
+</div>
+
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hasunB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasunB&theme=onedark&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ### ✍️ Random Dev Quote
+
+<div align="center">
+    
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+</div>
+
+## 🌐 Socials:
+
+<p align="center">
+    <a href="https://discord.gg/hasun_akash_73184">
+        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg" alt="discord"/></a>
+    <a href="https://web.facebook.com/profile.php?id=100094134785823" alt="Activity">
+        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/facebook.svg" alt="facebook"/></a>
+    <a href="https://www.instagram.com/_hasun_akash_/profilecard/?igsh=bnB0bWU0MDc0YmNl" alt="Discussions">
+        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg" alt="instagram"/></a>
+    <a href="https://www.linkedin.com/in/hasun-bandara-274252237">
+        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" alt="linkedin"></a>
+    <a href="https://open.spotify.com/user/31p5iqeeskyywuxfwyc2oja2obwa?si=Mewl8bukSquL515lW52WpQ">
+        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/spotify.svg" alt="spotify"></a>
+    <a href="https://discord.gg/HjJCwm5">
+        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/tiktok.svg" alt="tiktok"></a>
+    <a href="https://www.youtube.com/@Tsushima810">
+        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg" alt="youtube"></a>
+    <a href="https://www.upwork.com/freelancers/~01fd234bf664cf5904">
+        <img src="https://github.com/hasunB/B-Music-player/blob/master/upwork-round-logo-icon-png-7017516949686332n4bo69bd8-removebg-preview.png" alt="upwork" width="35"></a>
+    <a href="https://www.fiverr.com/s/jjVz6NV">
+        <img src="https://github.com/hasunB/B-Music-player/blob/master/png-transparent-fiverr-freelancer-logo-business-online-marketplace-fiverr-text-service-grass-thumbnail-removebg-preview.png" alt="fiverr" width="35"></a>
+</p>
+
 ---
+## 💰 You can help me by Donating
+<div align="center">
+    
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hasunakah) 
 
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=hasunB&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hasunakah) 
-
-  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/31p5iqeeskyywuxfwyc2oja2obwa?si=6c89b90b5c5e4fa8)
-
-
-  ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hasun_akash_73184) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/profile.php?id=100094134785823) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_HASUN_AKASH_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hasun-bandara-274252237) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23151259/hasun-bandara) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@hasun_akash) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@tushima810) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
