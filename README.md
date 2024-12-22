@@ -24,5 +24,7 @@ I am a passionate Software Engineering student at Birmingham City University wit
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hasunakah) 
 
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
