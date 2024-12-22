@@ -1,3 +1,7 @@
+[![MasterHead](https://github.com/hasunB/B-Music-player/blob/master/HD%20Restoration_image%20(2).png)](https://github.com/hasunB)
+
+
+
 # 💫 About Me:
 I am a passionate Software Engineering student at Birmingham City University with a strong interest in web development, IoT, and innovative solutions. <br>I enjoy creating dynamic and user-friendly applications, from designing online stores to developing smart devices. Fluent in English, I aim to merge creativity and technology in every project I undertake.<br>Currently exploring opportunities to grow as a Full Stack Software Engineer and sharing my love for astronomy through creative content.
 
