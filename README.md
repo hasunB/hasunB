@@ -1,7 +1,28 @@
 <img align="center" alt="Coding" src="https://github.com/hasunB/B-Music-player/blob/master/Yellow%20and%20Red%20Bright%20and%20Playful%20YouTube%20Thumbnail%20(1).jpg">
 
-# 💫 About Me:
-I am a passionate Software Engineering student at Birmingham City University with a strong interest in web development, IoT, and innovative solutions. <br>I enjoy creating dynamic and user-friendly applications, from designing online stores to developing smart devices. Fluent in English, I aim to merge creativity and technology in every project I undertake.<br>Currently exploring opportunities to grow as a Full Stack Software Engineer and sharing my love for astronomy through creative content.
+<p align="center">
+    <a href="https://shields.io/community#backers" alt="Backers on Open Collective">
+        <img src="https://img.shields.io/opencollective/backers/shields" /></a>
+    <a href="https://shields.io/community#sponsors" alt="Sponsors on Open Collective">
+        <img src="https://img.shields.io/opencollective/sponsors/shields" /></a>
+    <a href="https://github.com/badges/shields/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
+    <a href="https://github.com/badges/shields/discussions" alt="Discussions">
+        <img src="https://img.shields.io/github/discussions/badges/shields" /></a>
+    <a href="https://github.com/badges/shields/actions/workflows/daily-tests.yml">
+        <img src="https://img.shields.io/github/actions/workflow/status/badges/shields/daily-tests.yml?label=daily%20tests"
+            alt="Daily Tests Status"></a>
+    <a href="https://coveralls.io/github/badges/shields">
+        <img src="https://img.shields.io/coveralls/github/badges/shields"
+            alt="Code Coverage"></a>
+    <a href="https://discord.gg/HjJCwm5">
+        <img src="https://img.shields.io/discord/308323056592486420?logo=discord&logoColor=white"
+            alt="Chat on Discord"></a>
+</p>
+
+<p align="center">
+👋 Hi there! I'm a passionate Software Engineering student at Birmingham City University with a strong interest in web development, IoT, and innovative solutions. I enjoy creating dynamic and user-friendly applications, from designing online stores to developing smart devices. Fluent in English, I aim to merge creativity and technology in every project I undertake. Currently exploring opportunities to grow as a <b>Full Stack Software Engineer/AI Engineer</b> and sharing my love for astronomy through creative content. 🚀✨
+</p>
 
 
 ## 🌐 Socials:
