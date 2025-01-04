@@ -44,24 +44,6 @@
 
 </div>
 
-
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasunB&theme=onedark&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-    
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
 ## 🌐 Socials:
 
 <p align="center">
