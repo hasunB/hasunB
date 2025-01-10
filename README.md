@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-👋 Hi there! I'm a passionate Software Engineering student at Birmingham City University with a strong interest in web development, IoT, and innovative solutions. I enjoy creating dynamic and user-friendly applications, from designing online stores to developing smart devices. Fluent in English, I aim to merge creativity and technology in every project I undertake. Currently exploring opportunities to grow as a <b>Full Stack Software Engineer/AI Engineer</b> and sharing my love for astronomy through creative content. 🚀✨
+👋 Hi there! My name is Hasun Akash Bandara. I'm a passionate Software Engineering student at Birmingham City University with a strong interest in web development, IoT, and innovative solutions. I enjoy creating dynamic and user-friendly applications, from designing online stores to developing smart devices. Fluent in English, I aim to merge creativity and technology in every project I undertake. Currently exploring opportunities to grow as a <b>Full Stack Software Engineer/AI Engineer</b> and sharing my love for astronomy through creative content. 🚀✨
 </p>
 <div align="center">
 <img align="center" alt="Coding" src="https://github.com/hasunB/B-Music-player/blob/master/ironcat__1_-removebg-preview.png" width="250">
