@@ -29,6 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
+      <img src="https://skills.syvixor.com/api/icons?i=jakartaee,rest,soap,jmeter,materialdesign" /> 
     <img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,azure,bootstrap,css,docker,figma,firebase,gcp,git,gitlab,gradle,hibernate,html,htmx,ai,java,js,jquery,kotlin,kubernetes,laravel,maven,mongodb,mysql,nginx,nodejs,notion,npm,php,postman,powershell,py,raspberrypi,react,redhat,regex,spring,stackoverflow,swift,tailwind,ts,vscode, wordpress" />
   </a>
 </p>
