@@ -29,8 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skills.syvixor.com/api/icons?i=jakartaee,rest,soap,jmeter,materialdesign" /> 
-    <img src="https://skills.syvixor.com/api/icons?i=androidstudio,arduino,aws,azure,bootstrap,css,docker,figma,firebase,gcp,git,gitlab,gradle,hibernate,html,htmx,ai,java,js,jquery,kotlin,kubernetes,laravel,maven,mongodb,mysql,nginx,nodejs,notion,npm,php,postman,powershell,py,raspberrypi,react,redhat,regex,spring,stackoverflow,swift,tailwind,ts,vscode, wordpress" />
+      <img src="https://skills.syvixor.com/api/icons?i=android,amazonwebservices,androidstudio,antdesign,apache,apachejmeter,apachemaven,apple,arduino,autocad,azure,backbonejs,bitbucket,bootstrap,chartjs,clickup,codeigniter,codepen,cpanel,cpp,csharp,css,css3,django,docker,electron,elementor,expo,expressjs,figma,firebase,firebaseailogic,flutter,git,gitbash,github,githubactions,githubcopilot,gitlab,googleadsense,googlecloud,gradle,groovy,hibernate,html,javascript,java,jakartaee,intellijidea,jquery,json,jsonschema,jwt,kotlin,kubernetes,librepcb,leetcode,laravel,mongodb,materialui,materialdesign,mysql,netbeans,nextjs,nginx,ngrok,npm,notion,nodejs,oracle,oraclecloudinfrastructure,payload,postgresql,php,postman,powershell,prettier,python,raspberrypi,reactdatepicker,reacthookform,reactjs,reactnative,reactquery,reactrouter,redhat,sass,rest,shopify,slack,soap,spring,springboot,stackoverflow,tailwindcss,tailwindmerge,threejs,unrealengine,unity,typescript,visualstudio,visualstudiocode,vite,vuejs,vueform,xml,xampp,wordpress,woocommerce" /> 
   </a>
 </p>
 
