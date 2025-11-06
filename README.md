@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=hasunB&color=brightgreen&abbreviated=true&style=flat) ![Followers](https://img.shields.io/github/followers/hasunB?label=Followers) ![Stars](https://img.shields.io/github/stars/hasunB?label=Stars) ![Stars](https://img.shields.io/badge/Open_source-Hell_Yeah-brightgreen&style=flat) ![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2034%20mins-brightgreen) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![](https://komarev.com/ghpvc/?username=hasunB&color=brightgreen&abbreviated=true&style=flat) ![Followers](https://img.shields.io/github/followers/hasunB?label=Followers) ![Stars](https://img.shields.io/github/stars/hasunB?label=Stars) ![Stars](https://img.shields.io/badge/Open_source-Hell_Yeah-brightgreen&style=flat) ![Code Time](http://img.shields.io/badge/Code_Time-219_hrs_23_mins-brightgreen) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 <p align="center">
