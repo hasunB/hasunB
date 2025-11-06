@@ -10,8 +10,17 @@
 </div>
 
 <p align="center">
-👋 Hi there! My name is Hasun Akash Bandara. I'm a passionate Software Engineering student at Birmingham City University with a strong interest in web development, IoT, and innovative solutions. I enjoy creating dynamic and user-friendly applications, from designing online stores to developing smart devices. Fluent in English, I aim to merge creativity and technology in every project I undertake. Currently exploring opportunities to grow as a <b>Full Stack Software Engineer/AI Engineer</b> and sharing my love for astronomy through creative content. 🚀✨
+🚀 Hi, I’m <strong>Hasun Akash Bandara</strong>!
+I’m a passionate Software Engineering student at Birmingham City University and a dedicated Full Stack & AI Developer with a love for solving complex problems through code.
+I specialize in cloud-based development, AI-driven systems, and advanced Java desktop & web applications. I’m also a pro WordPress developer, skilled in crafting custom plugins, themes, and complete web solutions that merge creativity and performance. My projects range from dynamic e-commerce platforms and smart IoT devices to AI-integrated web tools — all built with a focus on innovation, scalability, and user experience.
+I’m currently exploring ways to combine AI, automation, and cloud technologies to build intelligent software that empowers people and businesses.
 </p>
+<h3 align="center">
+  <em>
+     “Blending creativity with technology — one project at a time.”
+  </em>
+</h3>
+</br>
 <div align="center">
 <img align="center" alt="Coding" src="https://github.com/hasunB/B-Music-player/blob/master/ironcat__1_-removebg-preview.png" width="250">
 </div>
@@ -28,41 +37,15 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=hasunB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasunB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 </div>
 
 ## 🌐 Socials:
 
 <p align="center">
     <a href="https://discord.gg/hasun_akash_73184">
-        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg" alt="discord"/></a>
-    <a href="https://web.facebook.com/profile.php?id=100094134785823" alt="Activity">
-        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/facebook.svg" alt="facebook"/></a>
-    <a href="https://www.instagram.com/_hasun_akash_/profilecard/?igsh=bnB0bWU0MDc0YmNl" alt="Discussions">
-        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg" alt="instagram"/></a>
-    <a href="https://www.linkedin.com/in/hasun-bandara-274252237">
-        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" alt="linkedin"></a>
-    <a href="https://open.spotify.com/user/31p5iqeeskyywuxfwyc2oja2obwa?si=Mewl8bukSquL515lW52WpQ">
-        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/spotify.svg" alt="spotify"></a>
-    <a href="https://discord.gg/HjJCwm5">
-        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/tiktok.svg" alt="tiktok"></a>
-    <a href="https://www.youtube.com/@Tsushima810">
-        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg" alt="youtube"></a>
-    <a href="https://www.upwork.com/freelancers/~01fd234bf664cf5904">
-        <img src="https://github.com/hasunB/B-Music-player/blob/master/upwork-round-logo-icon-png-7017516949686332n4bo69bd8-removebg-preview.png" alt="upwork" width="35"></a>
-    <a href="https://www.fiverr.com/s/jjVz6NV">
-        <img src="https://github.com/hasunB/B-Music-player/blob/master/png-transparent-fiverr-freelancer-logo-business-online-marketplace-fiverr-text-service-grass-thumbnail-removebg-preview.png" alt="fiverr" width="35"></a>
+        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg" alt="discord"/>
+    </a>
 </p>
-
----
-## 💰 You can help me by Donating
-<div align="center">
-    
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hasunakah) 
-
-</div>
 
