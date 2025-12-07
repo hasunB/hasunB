@@ -46,8 +46,31 @@ I’m currently exploring ways to combine AI, automation, and cloud technologies
 ## 🌐 Socials:
 
 <p align="center">
-    <a href="https://discord.gg/hasun_akash_73184">
-        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg" alt="discord"/>
+    <a href="https://profiles.wordpress.org/hasunbandara/">
+        <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leet-code"/>
+    </a>
+    <a href="https://lk.linkedin.com/in/hasun-bandara-274252237">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stack-overflow"/>
+    </a>
+    <a href="https://x.com/hasun_bandara">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x-com"/>
+    </a>
+    <a href="https://linktr.ee/hasunbandara">
+        <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree"/>
+    </a>
+</p>
+
+## ☕ Donate:
+
+<p align="center">
+    <a href="https://buymeacoffee.com/hasunbandara">
+        <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy-me-a-coffee"/>
     </a>
 </p>
 
