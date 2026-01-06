@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://github.com/hasunB/B-Music-player/blob/master/Yellow%20and%20Red%20Bright%20and%20Playful%20YouTube%20Thumbnail%20(1).jpg">
+<img align="center" alt="Coding" src="https://github.com/hasunB/hasunB/blob/main/github-banner.jpg">
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasunB&hide_border=true&theme=github_dark&card_width=1000" alt="hasun Bandara Summary" /></p>
