@@ -22,26 +22,17 @@ I’m currently exploring ways to combine AI, automation, and cloud technologies
 </h3>
 </br>
 <div align="center">
-<img align="center" alt="Coding" src="https://github.com/hasunB/B-Music-player/blob/master/ironcat__1_-removebg-preview.png" width="250">
+<img align="center" alt="Coding" src="https://github.com/hasunB/hasunB/blob/main/Fintechtocat.png" width="250">
 </div>
 
 # Technologies 💻
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skills.syvixor.com/api/icons?i=android,amazonwebservices,androidstudio,antdesign,apache,apachejmeter,apachemaven,apple,arduino,autocad,azure,backbonejs,bitbucket,bootstrap,chartjs,clickup,codeigniter,codepen,cpanel,cpp,csharp,css,css3,django,docker,electron,elementor,expo,expressjs,figma,firebase,firebaseailogic,flutter,git,gitbash,github,githubactions,githubcopilot,gitlab,googleadsense,googlecloud,gradle,groovy,hibernate,html,javascript,java,jakartaee,intellijidea,jquery,json,jsonschema,jwt,kotlin,kubernetes,librepcb,leetcode,laravel,mongodb,materialui,materialdesign,mysql,netbeans,nextjs,nginx,ngrok,npm,notion,nodejs,oracle,oraclecloudinfrastructure,payload,postgresql,php,postman,powershell,prettier,python,raspberrypi,reactdatepicker,reacthookform,reactjs,reactnative,reactquery,reactrouter,redhat,sass,rest,shopify,slack,soap,spring,springboot,stackoverflow,tailwindcss,tailwindmerge,threejs,unrealengine,unity,typescript,visualstudio,visualstudiocode,vite,vuejs,vueform,xml,xampp,wordpress,woocommerce" /> 
+      <img src="https://skills.syvixor.com/api/icons?i=python,java,javascript,typescript,,cpp,csharp,amazonwebservices,azure,googlecloud,docker,kubernetes,terraform,githubactions,githubcopilot,nginx,springboot,nodejs,expressjs,rest,graphql,postgresql,mongodb,redis,reactjs,nextjs,tailwindcss,openai,huggingface,langchain,pytorch,firebaseailogic,tensorflow,django,git,github,postman,linux,wordpress,elementor,woocommerce,visualstudiocode,intellij" /> 
   </a>
 </p>
-
-
-# 📊 GitHub Stats:
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=hasunB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasunB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+<br/>
 
 ## 🌐 Socials:
 
