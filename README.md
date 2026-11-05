@@ -29,7 +29,7 @@ I’m currently exploring ways to combine AI, automation, and cloud technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skills.syvixor.com/api/icons?i=python,java,javascript,typescript,,cpp,csharp,amazonwebservices,azure,googlecloud,docker,kubernetes,terraform,githubactions,githubcopilot,nginx,springboot,nodejs,expressjs,rest,graphql,postgresql,mongodb,redis,reactjs,nextjs,tailwindcss,openai,huggingface,langchain,pytorch,firebaseailogic,tensorflow,django,git,github,postman,linux,wordpress,elementor,woocommerce,visualstudiocode,intellij" /> 
+      <img src="https://skills.syvixor.com/api/icons?i=python,java,php,laravel,go,javascript,typescript,kafka,amazonwebservices,azure,googlecloud,docker,kubernetes,terraform,githubactions,githubcopilot,nginx,springboot,nodejs,expressjs,rest,graphql,postgresql,mongodb,redis,reactjs,nextjs,tailwindcss,openai,pytorch,firebaseailogic,tensorflow,django,git,github,postman,linux,wordpress,elementor,woocommerce,visualstudiocode,intellij,maven,mysql,obsidian,phpstorm,webstorm" /> 
   </a>
 </p>
 <br/>
